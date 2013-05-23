@@ -1,0 +1,5 @@
+{
+  "name": "video.js",
+  "version": "4.0.2",
+  "main": ["video.js", "video.css"]
+}
