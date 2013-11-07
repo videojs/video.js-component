@@ -1,0 +1,27 @@
+{
+    "name": "videojs/videojs",
+    "description": "",
+    "type": "component",
+    "authors": [
+        {
+            "name": "Steve Heffernan"
+        }
+    ],
+    "extra": {
+        "component": {
+            "scripts": [
+                "video.js"
+            ],
+            "styles": [
+                "video-js.css"
+            ],
+            "files":[
+                "*",
+                "font/*"
+            ],
+            "shim": {
+                "deps": ["jquery"]
+            }
+        }
+    }
+}
