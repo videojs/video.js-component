@@ -1,0 +1,25 @@
+{
+  "name": "video.js",
+  "repo": "videojs/video.js-component",
+  "description": "An HTML5 and Flash video player with a common API and skin for both.",
+  "version": "4.3.0",
+  "keywords": [
+    "html5",
+    "flash",
+    "video",
+    "player"
+  ],
+  "license": "Copyright 2013 Brightcove, Inc. https://github.com/videojs/video.js/blob/master/LICENSE",
+  "main": "video.js",
+  "scripts": [
+    "video.js"
+  ],
+  "styles": [
+    "video-js.css"
+  ],
+  "fonts": [
+    "font/vjs.eot",
+    "font/vjs.svg",
+    "font/vjs.woff"
+  ]
+}
